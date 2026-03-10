@@ -1,0 +1,11 @@
+Test Case 1:
+Input: 
+123
+Output: 
+1 3 7 15 30 61 123
+
+Test Case 2:
+Input: 
+70
+Output: 
+1 2 4 8 17 35 70

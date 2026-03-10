@@ -1,0 +1,13 @@
+Test Case 1 :
+Input:
+2 
+3 5
+Output :
+1d+1+d+1d+d+1+
+
+Test Case 2:
+Input:
+3  
+12 3 4
+Output :
+1d+d+d+d+1+1d+d+1+1d+d+

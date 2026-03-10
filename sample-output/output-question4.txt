@@ -1,0 +1,11 @@
+Test Case 1:
+Input: 
+34 21 10 50 27 70 90 102 100
+Output: 
+10 21 27 34 50 70 90 100 102
+
+Test Case 2:
+Input: 
+2 3 1 4
+Output: 
+1 2 3 4

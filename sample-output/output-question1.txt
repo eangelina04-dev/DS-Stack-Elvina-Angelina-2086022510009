@@ -1,0 +1,7 @@
+Test Case 1:
+Enter a string of brackets: {[]]}
+The string is not balanced.
+
+Test Case 2:
+Enter a string of brackets: (([]))
+The string is balanced.

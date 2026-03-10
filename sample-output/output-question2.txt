@@ -1,0 +1,7 @@
+Test Case 1 :
+Input Tokens: 2 10 * 3 - 4 +
+The value : 21
+
+Test Case 2 :
+Input Tokens: 3 4 + 5 - 5 *
+The value : 10
