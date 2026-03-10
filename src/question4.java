@@ -3,6 +3,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
 
+// Question 4: buat mesin yang bisa mengurutkan angka-angka di stack dengan memasukkan di array.
 public class question4 {
 
     public static void main(String[] args) {
