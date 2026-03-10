@@ -8,7 +8,6 @@ public class question1 {
     public static boolean isBalanced(String s) {
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {
-            System.out.println("Current character: " + c);
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             } else if (c == ')' || c == '}' || c == ']') {

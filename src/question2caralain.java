@@ -30,10 +30,10 @@ public class question2caralain {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Masukkan ekspresi RPN (pisahkan dengan spasi, contoh: 2 1 + 3 *): ");
+        System.out.print("Input Tokens: ");
         String inputLine = scanner.nextLine();
         String[] tokens = inputLine.split("\\s+");
-        System.out.println("The value of the expression is: " + evaluate_rpn(tokens));
+        System.out.println("The value : " + evaluate_rpn(tokens));
         scanner.close(); 
     }
 }
