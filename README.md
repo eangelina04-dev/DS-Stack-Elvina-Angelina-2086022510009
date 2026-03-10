@@ -12,8 +12,8 @@ Question 1
 Input format: string berisi karakter kurung. Contoh: ((}) (Not Balanced). 
 
 Example usage:
-<img src="/sample runs/Screenshot 2026-03-10 121055.png>
-<img src="/sample runs/Screenshot 2026-03-10 121152.png>
+<img src="/sample runs/Screenshot 2026-03-10 121055.png" width ="45%" />
+<img src="/sample runs/Screenshot 2026-03-10 121152.png" width ="45%" />
 
 Question 2
 Input format: angka dan operator dipisahkan spasi.
