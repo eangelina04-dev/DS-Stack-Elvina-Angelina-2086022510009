@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
+// Question 5: buat mesin yang bisa menghitung kapan bom akan dijatuhkan.
 public class question5 {
 
     public static void main(String[] args) {

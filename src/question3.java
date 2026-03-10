@@ -24,7 +24,7 @@ public class question3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Masukkan input (baris 1: jumlah N, baris 2: target angka):");
+        System.out.println("Input:");
         if (!scanner.hasNextInt()) return;
         int n = scanner.nextInt();
 
@@ -51,7 +51,7 @@ public class question3 {
         }
 
         String answer = finalOutput.toString();
-        System.out.println("\nOutput Instruksi:\n" + answer);
+        System.out.println("Output :\n" + answer);
         verifyWithStack(answer);
         
         scanner.close();
