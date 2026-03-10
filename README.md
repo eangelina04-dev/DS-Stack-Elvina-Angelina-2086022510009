@@ -8,10 +8,13 @@ How to compile/run each question
 4. Jika ingin menjalankan program, pilih salah satu: (misalnya java question1 untuk question 1.)
 
 Input format + example usage
+
 Question 1
+
 Input format: string berisi karakter kurung. Contoh: ((}) (Not Balanced). 
 
 Example usage:
+
 Example 1
 
 <img src="/sample runs/Screenshot 2026-03-10 121055.png" width ="45%"> 
@@ -21,10 +24,13 @@ Example 2
 <img src="/sample runs/Screenshot 2026-03-10 121152.png" width ="45%">
 
 Question 2
+
 Input format: angka dan operator dipisahkan spasi.
+
 Contoh: 10 2 / 4 +. Hasilnya adalah 9. 
 
 Example usage:
+
 Example 1
 
 <img src="/sample runs/Screenshot 2026-03-10 125016.png" width ="45%"> 
@@ -34,9 +40,11 @@ Example 2
 <img src="/sample runs/Screenshot 2026-03-10 125052.png" width ="45%">
 
 Question 3
+
 Input format : Baris pertama untuk jumlah elemen n dan baris kedua untuk n angka target. Misalnya kita input di baris 1: 2 dan baris 2: 1 5. Hasilnya adalah 1d+d+1+.
 
 Example usage:
+
 Example 1
 
 <img src="/sample runs/Screenshot 2026-03-10 131816.png" width ="45%"> 
@@ -46,9 +54,11 @@ Example 2
 <img src="/sample runs/Screenshot 2026-03-10 131936.png" width ="45%">
 
 Question 4
+
 Input format : deretan angka yang dipisahkan spasi. Contohnya 3 2 4, outputnya 2 3 4.
 
 Example usage:
+
 Example 1
 
 <img src="/sample runs/Screenshot 2026-03-10 141314.png" width ="45%">
@@ -58,9 +68,11 @@ Example 2
 <img src="/sample runs/Screenshot 2026-03-10 141338.png" width ="45%">
 
 Question 5
+
 Input format : angka integer kecepatan awal bom jatuh. Contoh 100, outputnya 1 3 6 12 25 50 100.
 
 Example usage:
+
 Example 1
 
 <img src="/sample runs/Screenshot 2026-03-10 142954.png" width ="45%">
