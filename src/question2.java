@@ -1,7 +1,9 @@
 import java.util.Scanner;
 import java.util.Stack;
+
 // Question 2: write a function, that takes a list of strings tokens representinf an arithemtic expression in Reverse Polish Notation, and returns the value of the expression. 
 // Valid operators are +, -, *, and /. Each operand may be an integer and division should truncare toward zero.
+
 public class question2 {
     public static int evaluate_rpn(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
@@ -33,7 +35,7 @@ public class question2 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of tokens: ");
         int n = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine(); 
         String[] tokens = new String[n];
         System.out.println("Enter the tokens:");
         for (int i = 0; i < n; i++) {
