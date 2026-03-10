@@ -1,7 +1,11 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-// Question 3: 
+// Question 3: buat mesin yang bisa menghasilkan angka target dengan menggunakan instruksi berikut:
+// 1: push angka 1 ke stack
+// d: duplikat angka teratas stack
+// +: pop dua angka teratas, jumlahkan, dan push hasilnya kembali ke stack
+
 public class question3 {
     public static String buildSequence(int v) {
         if (v == 1) return "1";
